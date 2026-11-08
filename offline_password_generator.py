@@ -1,6 +1,7 @@
 import argparse
-import secrets
 import math
+import secrets
+
 
 def create_password(length):
     # Calculate nbytes for the desired length
